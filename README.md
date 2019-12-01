@@ -5,6 +5,15 @@
  :laughing:
  2
  :relaxed: :relaxed:
+ 
+ 3
+  :heart_eyes:
+  
+  4:grinning:
+  
+  5:grimacing: :grimacing:
+  
+  6jo :joy:
 
 
 
